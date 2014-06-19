@@ -1,5 +1,5 @@
 {
-  "name": "https-get-paginated-stream",
+  "name": "get-paginated-stream",
   "version": "1.0.0",
   "description": "Transform a paginated api endpoint into a readable stream",
   "main": "index.js",
